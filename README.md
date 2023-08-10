@@ -1,4 +1,4 @@
-# GAN-image-restore
+# Old Photo Restoration Using Pix2Pix gan
 This project uses PatchGAN, a popular generative adversarial network (GAN) architecture, to restore old images. PatchGAN is a type of discriminator that evaluates patches of an image instead of the entire image. This makes it well-suited for image restoration tasks, as it can focus on the local details of an image that are often lost in old photos.
 
 The project first trains a PatchGAN discriminator on a dataset of real and fake images. The discriminator is then used to train a generator network that can produce realistic images that fool the discriminator. Once the generator is trained, it can be used to restore old images.
