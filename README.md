@@ -16,5 +16,9 @@ The project uses the Flickr-Faces-HQ Dataset (FFHQ) -Small. This dataset contain
 ![image](https://github.com/bimarshak7/GAN-image-restore/assets/59700049/44432487-4041-4147-8eb0-e64fd71b1627)
 
 
-You can use Inference notebook to test and play with the model. Click the badge below.
+You can use Inference notebook to test and play with the model. Click the badge below.  
 <a href="https://colab.research.google.com/github/bimarshak7/GAN-image-restore/blob/main/ImageRestoration_Model_Inference.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+**Sample Input/Output**
+![image](https://github.com/bimarshak7/GAN-image-restore/assets/59700049/1e18576a-23d7-4922-9562-40020dcf668b)
+
